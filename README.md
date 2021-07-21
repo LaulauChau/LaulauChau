@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a freshman at EFREI Paris
+- 🔭 I’m currently a sophomore at EFREI Paris
 - 🌱 I’m currently learning **C** and **Python**
-
+- :computer: Intern developer at [3DS Outscale](https://fr.outscale.com/)
+- 
 **📫 How to reach me:**
 
 - Mail : minh-phuoc.chau@efrei.net

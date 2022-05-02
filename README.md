@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a sophomore at [EFREI Paris](https://www.efrei.fr/)
-- 🌱 I’m currently learning **C** and **Python**
+- 🌱 I’m currently learning **Java**, **HTML/CSS/JS**.
 
 **📫 How to reach me:**
 

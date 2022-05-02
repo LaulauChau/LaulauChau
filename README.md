@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a sophomore at [EFREI Paris](https://www.efrei.fr/)
+- 🏫 Sophomore at [EFREI Paris](https://www.efrei.fr/)
 - 🌱 I’m currently learning **Java**, **HTML/CSS/JS**.
+- 🔭 Looking for an internship **abroad**
 
 **📫 How to reach me:**
 

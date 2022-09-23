@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🏫 Sophomore at [EFREI Paris](https://www.efrei.fr/)
-- 🌱 I’m currently learning **Java**, **HTML/CSS/JS**.
-- 🔭 Looking for an internship **abroad**
+- 🏫 Last year of my bachelor degree at (Development & Data) [EFREI Paris](https://www.efrei.fr/programmes-experts/bachelor-concepteur-developpeur/)
+- 🌱 I’m currently learning to be a full-stack developer.
+- 🔭 Looking for an internship **abroad**.
 
 **📫 How to reach me:**
 

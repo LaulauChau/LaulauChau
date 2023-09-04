@@ -13,10 +13,10 @@ class FullStackDeveloper:
         self.name = "Laurent Chau"
         self.role = "Full Stack Developer"
         self.school = "EFREI Paris"
-        self.degree = "Bachelor"
+        self.degree = "Master"
         self.language_spoken = ["fr_FR", "en_US"]
         
-        self.company = "Pratico"
+        self.company = "Capgemini"
         self.position = "Intern"
         
     def say_hi(self):
